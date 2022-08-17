@@ -1,3 +1,5 @@
+Backend - Junior
+
 A rudimentary clone of Reddit's core API functionality, implemented with ExpressJS and Typescript.
 
 This is the first time I've used ExpressJS and Mongo, and therefore (unsurprisingly) it doesn't actually work.
